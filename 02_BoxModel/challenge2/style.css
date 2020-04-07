@@ -1,0 +1,32 @@
+/*nav :start*/
+.nav{
+    border: solid 2px;
+    padding-left: 700px; 
+}
+
+.nav-primary-links {
+    border: solid 2px red;
+    padding-bottom: 25px;
+}
+
+.nav-primary-links a {
+    text-decoration: none;
+    color: black;
+    margin: 0 5px;
+    border: solid 1px;
+}
+
+.main-container {
+    border: solid;
+    padding-left: 300px;
+    padding-top: ;
+}
+
+.search-imput {
+    border: solid;
+}
+.search-imput input {
+    width: 300px;
+    height: 30px;
+    border border-radius: 20px;
+}

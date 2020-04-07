@@ -1,0 +1,44 @@
+.padreazul {
+   background-color: blue;
+   width: 1000vw;
+   height: 1000vh;
+   display: flex;
+   
+}
+
+.hijo1 {
+    border: solid 1px purple;
+    height: 100vh;
+    width: 100vw;
+}
+
+.nietos1blanco {
+    background-color: white;
+    width: 45%;
+    height: 20%;
+    display: flex;
+}
+
+bisnietos1rojo {
+    background-color: red;
+    width: 90%;
+    height: 90%;
+    display: flex;
+    align-items: flex-end;
+}
+
+.hojo2 {
+    border: solid 1px;
+    
+    
+}
+
+.nietos2blanco {
+    background-color: white;
+
+}
+
+.bisnietos2rojo {
+    background-color: red;
+
+}
